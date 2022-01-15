@@ -3,6 +3,6 @@
 
 # Advent of JavaScript
 
-24 Problems fo 24 days of december! I came to know later about it and now I'm doing it in Jan-22.
+24 Problems for the 24 days of December! I came to know later about it and now I'm doing it in Jan-22.
 
 Solution can be in HTML, CSS, and vanilla JavaScript. No external library unless required for any specific things.
