@@ -4,10 +4,13 @@ body {
   align-items: center;
   display: flex;
   justify-content: center;
+  flex-direction: column;
   min-height: 100vh;
   min-width: 100vw;
   margin: 0;
   padding: 0;
+  gap: 2em;
+  font-family: 'Inter', sans-serif;
 }
 
 .keyboard {
@@ -88,4 +91,14 @@ h1 {
   80% { transform: translate(-1px, -1px) rotate(1deg); }
   90% { transform: translate(1px, 2px) rotate(0deg); }
   100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+
+/* results */
+.results .correct-keys-count {
+  color: #60C1B6;
+}
+
+.results .incorrect-keys-count {
+  color: #f00;
 }
